@@ -9,3 +9,5 @@ https://android.jlelse.eu/android-card-view-edb905e67cd6
 https://developer.android.com/guide/topics/ui/layout/cardview
 
 https://www.youtube.com/watch?v=18VcnYN5_LM
+
+https://www.youtube.com/watch?v=xgpLYwEmlO0
